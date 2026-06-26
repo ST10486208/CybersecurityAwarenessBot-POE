@@ -50,7 +50,8 @@ public class KeywordRecognizer
     }
 
     /// <summary>
-    /// Returns the first matching topic key, or null if no keyword is found.
+    /// Scans user input and returns the first matching cybersecurity topic.
+    /// Returns null when no supported keyword is detected.
     /// </summary>
     public string? RecognizeTopic(string input)
     {
