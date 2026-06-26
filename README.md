@@ -169,6 +169,12 @@ Bot: Correct! Phishing tricks users into revealing sensitive information...
 | **Quiz** | Standalone 5-question cybersecurity quiz with buttons |
 | **Activity Log** | Timestamped history with Show More pagination |
 
+### User Tips
+
+- Complete tasks after finishing them.
+- Keep MySQL running to save tasks.
+- Use natural language commands in the Chat tab.
+
 ## Repository & Submission
 
 ### GitHub
