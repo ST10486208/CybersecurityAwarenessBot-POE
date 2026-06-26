@@ -3,7 +3,7 @@ using CybersecurityAwarenessBot.Models;
 namespace CybersecurityAwarenessBot.Services;
 
 /// <summary>
-/// Generic memory store using a List to recall user-provided facts.
+/// Stores or updates a user memory entry based on the supplied key.
 /// </summary>
 public class MemoryService
 {
