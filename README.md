@@ -220,8 +220,7 @@ Create releases on GitHub: **Releases → Draft a new release** → select tag �
 8. Parts 1–2 integration: sentiment, memory, delegates  
 
 ## Video Presentation
-
-_Add your YouTube unlisted link here after recording._
+(https://youtu.be/kezlG120xtk)
 
 ## References
 
