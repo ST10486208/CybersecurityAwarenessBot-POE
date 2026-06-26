@@ -94,7 +94,7 @@ public class ChatbotService
 
     {
 
-        EmitBot("Hello! Welcome to the Cybersecurity Awareness Bot.");
+        EmitBot("I am here to help you stay safe online by providing cybersecurity tips, quizzes, reminders, and task management.");
 
         EmitBot("I am here to help you stay safe online.");
 
