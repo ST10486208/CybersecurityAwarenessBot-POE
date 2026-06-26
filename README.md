@@ -6,6 +6,9 @@ Name: Karabo Matsetela
 
 Student Number: ST10486208
 
+Module:
+PROG6221 – Programming 2A POE
+
 A **WPF (Windows Presentation Foundation)** cybersecurity chatbot with task management, quiz mini-game, NLP intent detection, and activity logging. Parts 1–2 (keyword recognition, sentiment, memory, conversation flow) are integrated with Part 3 features in a single cohesive GUI.
 
 ## Overview
@@ -100,7 +103,7 @@ CybersecurityAwarenessBot/
 ### 1. Clone and restore
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CybersecurityAwarenessBot.git
+git clone https://github.com/ST10486208/CybersecurityAwarenessBot-POE.git
 cd CybersecurityAwarenessBot
 dotnet restore
 ```
