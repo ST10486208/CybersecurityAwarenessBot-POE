@@ -70,7 +70,7 @@ public class QuizService
 
         message += pct switch
         {
-            >= 80 => "Great job! You're a cybersecurity pro! Keep sharing what you know.",
+            >= 80 => "Excellent work! You demonstrated strong cybersecurity knowledge. Keep applying these best practices to stay safe online.",
             >= 50 => "Good effort! Review the explanations and try again to sharpen your skills.",
             _ => "Keep learning to stay safe online! Practice makes perfect—retake the quiz anytime."
         };
