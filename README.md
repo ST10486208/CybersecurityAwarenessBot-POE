@@ -12,6 +12,16 @@ A **WPF (Windows Presentation Foundation)** cybersecurity chatbot with task mana
 
 The bot helps users learn about password safety, phishing, malware, scams, privacy, safe browsing, and more. It also lets users manage cybersecurity tasks with MySQL-backed reminders, take an interactive quiz, and review a timestamped activity log—all from one application.
 
+## Learning Outcomes
+
+This project demonstrates the use of:
+
+- Windows Presentation Foundation (WPF)
+- Object-Oriented Programming (OOP)
+- MySQL database integration
+- Natural Language Processing concepts
+- Git and GitHub version control
+
 ## POE Rubric Alignment (Maximum Standard)
 
 | Criterion | Implementation |
