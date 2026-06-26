@@ -79,6 +79,13 @@ public class QuizService
     }
 
     private static List<QuizQuestion> BuildQuestionBank() =>
+
+    /// <summary>
+    /// Builds the complete cybersecurity quiz question bank.
+    /// Questions cover passwords, phishing, malware,
+    /// ransomware, HTTPS, social engineering and online safety.
+    /// </summary>
+    
     [
         new()
         {
