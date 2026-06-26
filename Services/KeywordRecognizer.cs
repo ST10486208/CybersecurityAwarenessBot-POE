@@ -27,6 +27,7 @@ public class KeywordRecognizer
             ["scam"] = "scams",
             ["scams"] = "scams",
             ["fraud"] = "scams",
+            ["identity theft"] = "scams",
             ["con artist"] = "scams",
             ["privacy"] = "privacy",
             ["private data"] = "privacy",
