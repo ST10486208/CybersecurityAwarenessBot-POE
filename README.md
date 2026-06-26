@@ -83,6 +83,7 @@ CybersecurityAwarenessBot/
 - **.NET 10 SDK** (`net10.0-windows`)
 - **Windows** (WPF)
 - **MySQL Server** (local or remote) for task persistence
+- Ensure MySQL Server is running before launching the application.
 
 ## Setup
 
