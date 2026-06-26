@@ -44,6 +44,7 @@ public class KeywordRecognizer
             ["two-factor"] = "twofactor",
             ["2fa"] = "twofactor",
             ["mfa"] = "twofactor"
+            ["authentication"] = "twofactor",
         };
     }
 
