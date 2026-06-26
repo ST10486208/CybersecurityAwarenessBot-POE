@@ -209,3 +209,5 @@ _Add your YouTube unlisted link here after recording._
 - [Microsoft Learn - WPF Documentation](https://learn.microsoft.com/dotnet/desktop/wpf/)
 - [MySqlConnector Documentation](https://mysqlconnector.net/)
 - [Microsoft Learn - .NET Documentation](https://learn.microsoft.com/dotnet/)
+
+Last updated: June 2026
