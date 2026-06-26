@@ -12,10 +12,10 @@
         <SolidColorBrush x:Key="BotBubbleBrush" Color="#2D1B69"/>
         <SolidColorBrush x:Key="UserBubbleBrush" Color="#FF5E00"/>
         <SolidColorBrush x:Key="SuccessBrush" Color="#FF00AA"/>
-        <SolidColorBrush x:Key="WarningBrush" Color="#FFE600"/>
+        <SolidColorBrush x:Key="WarningBrush" Color="#FF7B7012"/>
         <SolidColorBrush x:Key="ErrorBrush" Color="#FF1744"/>
         <SolidColorBrush x:Key="WorriedBrush" Color="#00E5FF"/>
-        <SolidColorBrush x:Key="CuriousBrush" Color="#CCFF00"/>
+        <SolidColorBrush x:Key="CuriousBrush" Color="#FF91B309"/>
         <SolidColorBrush x:Key="FrustratedBrush" Color="#FF6EC7"/>
         <SolidColorBrush x:Key="FarewellBrush" Color="#9D4EDD"/>
         <SolidColorBrush x:Key="TextBrush" Color="#E8F4F8"/>
